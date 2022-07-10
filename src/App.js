@@ -10,6 +10,7 @@ function App() {
         <p>Hello there!</p>
         <p>Bye there!</p>
         <p>install node packages!</p>
+        <p>Remove dev container build!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
