@@ -4,6 +4,7 @@ const Home = () => {
     return (
         <div>
             <Directory/> 
+            <p>user Lcoation availabe in /shop page</p>
         </div>
     );
 }
